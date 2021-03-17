@@ -18,6 +18,9 @@ header{
     background-color: tomato;
 }
 .rigth{
+    background-repeat:no-repeat;
+    background:url(../img/mexicali.jpg);
+    background-size: cover;
     width: 50vw;
     background-color: blueviolet;
 }
