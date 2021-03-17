@@ -11,6 +11,10 @@ header{
 .container-flex{
     display: flex;
 }
+.left{
+    width: 50vw;
+    background-color: tomato;
+}
 footer{
     width: 100vw;
     height: 10vh;
