@@ -15,6 +15,10 @@ header{
     width: 50vw;
     background-color: tomato;
 }
+.rigth{
+    width: 50vw;
+    background-color: blueviolet;
+}
 footer{
     width: 100vw;
     height: 10vh;
