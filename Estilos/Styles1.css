@@ -11,3 +11,8 @@ header{
 .container-flex{
     display: flex;
 }
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: aqua;
+}
