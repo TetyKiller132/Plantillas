@@ -6,7 +6,14 @@
 header{
     width: 100vw;
     height: 10vh;
-    background-color: aqua;
+    background-color: cornflowerblue;
+}
+header img{
+    height: 10vh;
+    float: left;
+}
+header h1{
+    text-align: center;
 }
 .container-flex{
     height: 80vh;
@@ -15,17 +22,16 @@ header{
 .left{
     overflow: auto;
     width: 50vw;
-    background-color: tomato;
+    background-color: #C19A6B;
 }
 .rigth{
     background-repeat:no-repeat;
     background:url(../img/mexicali.jpg);
     background-size: cover;
     width: 50vw;
-    background-color: blueviolet;
 }
 footer{
     width: 100vw;
     height: 10vh;
-    background-color: aqua;
+    background-color:darkgreen;
 }
